@@ -11,10 +11,10 @@
 		Number of Words (max 9):<input type="number" value=" " name="words" min="1" max="9" step="1"><br>
 		<input type="checkbox" name="number" value="true"> Add a Number<br>
 		<input type="checkbox" name="symbol" value="true"> Add a Symbol<br>
-		Separator: <input type="radio" name="separator" value="-" checked> -
-		<input type="radio" name="separator" value="~"> ~
-		<input type="radio" name="separator" value="."> .
-		<input type="radio" name="separator" value=""> None <br>
+		Separator: <input type="radio" name="separator" value="-" checked> - &nbsp;
+		<input type="radio" name="separator" value="~"> ~  &nbsp;
+		<input type="radio" name="separator" value="."> . &nbsp;
+		<input type="radio" name="separator" value=""> None&nbsp;<br>
 		<input type="submit" value="Get a password">
 	</form>
 </body>
