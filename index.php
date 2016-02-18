@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>xkcd Password Generator</title>
+	<?php require "controller.php"; ?>
 </head>
 <body>
 	<h1>xkcd Password Generator</h1>
