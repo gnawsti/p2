@@ -11,7 +11,7 @@
 			for($i=0;$i<$_POST["words"]; $i++){
 				array_push($password, $words[rand(0,15)]);
 			};
-			echo "Your Password:";
+			echo "Your Password: ";
 			for($i=0;$i<count($password);$i++){
 				echo($password[$i]);
 				if ($i!=count($password)-1){
