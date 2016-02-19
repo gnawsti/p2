@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>xkcd Password Generator</title>
-	<?php require "controller.php"; ?>
 </head>
 <body>
+	<?php require "controller.php"; ?>
 	<h1>xkcd Password Generator</h1>
 
 	<form method="POST" action="index.php">
